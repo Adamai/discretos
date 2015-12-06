@@ -38,7 +38,7 @@ public class GUI {
 						System.out.println("1 - ISBN válido");
 					else
 						System.out.println("0 - ISBN inválido");
-				}
+				} else System.out.println("Insira número ISBN de 10 dígitos completo");
 				
 				
 			} else
